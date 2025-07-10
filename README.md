@@ -1,3 +1,4 @@
+EL CONTRATO DESPLEGADO ES: erd1qqqqqqqqqqqqqpgqnqedff8xd00lr8p56fammwftypdh5d85md8qeu72h0
 Aquest contracte conté les següents funcions:
 EXPEDIR CERTIFICADO
 mxpy contract call <DIRECCION_CONTRATO> \
