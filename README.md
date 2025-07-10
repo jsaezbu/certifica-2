@@ -1,4 +1,5 @@
 EL CONTRATO DESPLEGADO ES: erd1qqqqqqqqqqqqqpgqnqedff8xd00lr8p56fammwftypdh5d85md8qeu72h0
+LA WALLET QUE EXPIDE CERTICADO ES : erd1vcvu48259xy2l6mavnymr6q5qpck79cuxlk63kh5cnvc8kdpmd8q6j63n2
 Aquest contracte conté les següents funcions:
 EXPEDIR CERTIFICADO
 mxpy contract call <DIRECCION_CONTRATO> \
